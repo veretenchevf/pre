@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato/Lato-Bold.eot');
+    src: url('../fonts/Lato/Lato-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato/Lato-Bold.woff') format('woff'),
+        url('../fonts/Lato/Lato-Bold.ttf') format('truetype'),
+        url('../fonts/Lato/Lato-Bold.svg#Lato-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato/Lato-Regular.eot');
+    src: url('../fonts/Lato/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato/Lato-Regular.woff') format('woff'),
+        url('../fonts/Lato/Lato-Regular.ttf') format('truetype'),
+        url('../fonts/Lato/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('../fonts/BrandonGrotesque/BrandonGrotesque-Bold.eot');
+    src: url('../fonts/BrandonGrotesque/BrandonGrotesque-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BrandonGrotesque/BrandonGrotesque-Bold.woff2') format('woff2'),
+        url('../fonts/BrandonGrotesque/BrandonGrotesque-Bold.woff') format('woff'),
+        url('../fonts/BrandonGrotesque/BrandonGrotesque-Bold.ttf') format('truetype'),
+        url('../fonts/BrandonGrotesque/BrandonGrotesque-Bold.svg#BrandonGrotesque-Bold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans/OpenSans-Regular.eot');
+    src: url('../fonts/OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-Regular.woff') format('woff'),
+        url('../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype'),
+        url('../fonts/OpenSans/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gotham';
+    src: url('../fonts/Gotham-Black/Gotham-Black.eot');
+    src: url('../fonts/Gotham-Black/Gotham-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gotham-Black/Gotham-Black.woff2') format('woff2'),
+        url('../fonts/Gotham-Black/Gotham-Black.woff') format('woff'),
+        url('../fonts/Gotham-Black/Gotham-Black.ttf') format('truetype'),
+        url('../fonts/Gotham-Black/Gotham-Black.svg#Gotham-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    src: url("../webfonts/fa-regular-400.eot");
+    src: url("../webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"), 
+        url("../webfonts/fa-regular-400.woff2") format("woff2"), 
+        url("../webfonts/fa-regular-400.woff") format("woff"), 
+        url("../webfonts/fa-regular-400.ttf") format("truetype"), 
+        url("../webfonts/fa-regular-400.svg#fontawesome") format("svg"); 
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+}
+  
+
+
